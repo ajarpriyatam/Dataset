@@ -1,0 +1,7 @@
+Datalist 
+config file
+PORT
+DB_URI
+NODE_ENV
+SMPT_MAIL
+SMPT_PASSWORD

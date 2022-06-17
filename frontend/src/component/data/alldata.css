@@ -1,0 +1,49 @@
+.myDataPage {
+    width: 100vw;
+    max-width: 100%;
+    padding: 0 0.5vmax;
+    box-sizing: border-box;
+    margin-top:  5vmax;
+    margin-bottom:  10vmax;
+  }
+  .myDataTable div {
+    font: 300 1vmax "Roboto";
+    color: rgba(0, 0, 0, 0.678);
+    border: none;
+  }
+  
+  .myDataTable a {
+    color: rgba(0, 0, 0, 0.527);
+    transition: all 0.5s;
+  }
+  
+  .myDataTable a:hover {
+    color: skyblue;
+  }
+  
+  .MuiDataGrid-columnHeader {
+    background-color: skyblue;
+    padding: 1vmax !important;
+  }
+  
+  .MuiDataGrid-columnHeader div {
+    font: 500 1.1vmax "Roboto" !important;
+  }
+  
+  .MuiDataGrid-iconSeparator {
+    display: none !important;
+  }
+  .btns{
+    position: absolute;
+    top: 3vh;
+    color: skyblue;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-weight: 300;
+    width: 8vmax;
+    cursor: pointer;
+    left: 80%;
+  }
+  
